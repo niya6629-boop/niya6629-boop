@@ -19,7 +19,7 @@ Também estudo conteúdos de *cibersegurança,* redes e funcionamento de sistema
 
 ---
 
-## 🌐 Where to find me
+## Minha página de estudante:
 
 <p align="left">
   <a href="https://github.com/niya6629-boop">
