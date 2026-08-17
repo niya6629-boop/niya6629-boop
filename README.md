@@ -1,21 +1,8 @@
-# Oi 👋, Eu sou o Nicolas Gabriel
+# Nicolas Gabriel
 
-🚀 **🎓 Estudante | Aprendendo Desenvolvimento de Software**  
-🇧🇷 Brasil
+ **🎓 Estudante | DS 💻**  
 
-📚 Atualmente estudando
-
--HTML5
-
--CSS3
-
--JavaScript
-
--Linguagem C
-
--Git e GitHub
-
----
+---]
 
 ## Sobre mim:
 
@@ -31,9 +18,9 @@
   </a>
 </p>
 
-## <a href="https://github.com/niya6629-boop/exercicios-pw">📚 Atividades da etec 
+## <a href="https://github.com/niya6629-boop/exercicios-pw">📚 Atividades Etec
 
-## 🚀 Filosofia
+## 📖
 
 <i>“Fides quaerens intellectum.”</i>
 (Fé que busca entendimento.)
