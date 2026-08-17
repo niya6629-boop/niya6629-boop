@@ -2,7 +2,6 @@
 
  **🎓 Estudante | DS 💻**  
 
----]
 
 ## Sobre mim:
 
