@@ -1,4 +1,4 @@
-# Nicolas Gabriel
+# <b Nicolas Gabriel /b>
 
  **🎓 Estudante | DS 💻**  
 
